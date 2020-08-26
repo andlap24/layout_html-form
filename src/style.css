@@ -1,0 +1,15 @@
+.field {
+  margin-bottom: 20px;
+}
+
+.user-info {
+  margin-bottom: 10px;
+}
+
+.field .user-info:last-child {
+  margin: 0;
+}
+
+.submit-button {
+  margin-top: 20px;
+}
