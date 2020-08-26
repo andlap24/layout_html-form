@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,kBACF,CAEA,WACE,kBACF,CAEA,6BACE,QACF,CAEA,eACE,eACF","file":"style.078e3571.css","sourceRoot":"..\\src","sourcesContent":[".field {\n  margin-bottom: 20px;\n}\n\n.user-info {\n  margin-bottom: 10px;\n}\n\n.field .user-info:last-child {\n  margin: 0;\n}\n\n.submit-button {\n  margin-top: 20px;\n}\n"]}
